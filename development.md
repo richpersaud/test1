@@ -41,7 +41,7 @@ Questions and feedback on OpenXT are welcome on the [mailing list](https://group
 
 ### Operating Systems Courses
 
-+ Carnegie Mellon U, [Intro to Computer Systems 2013](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f13/www/schedule.html)
++ Carnegie Mellon U, [Intro to Computer Systems 2013](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f13/www/schedule.html), *USA*
 + U of Birmingham, [Operating Systems with C/C++ 2013/14](http://www.cs.bham.ac.uk/~exr/lectures/opsys/13_14/lectures.php), *UK*
 + M.I.T., [OS Engineering 2011](http://pdos.csail.mit.edu/6.828/2011/schedule.html) &middot; [Xv6 Teaching OS](http://pdos.csail.mit.edu/6.828/2014/xv6.html) &middot; [OpenCourseware 2006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2006/), *USA*
 + Stanford U, Advanced OS Topics 2013: [readings](http://www.scs.stanford.edu/13wi-cs240/sched/) &middot; [notes](http://www.scs.stanford.edu/13wi-cs240/notes) &middot; [HiStar Teaching OS](http://www.scs.stanford.edu/histar/), *USA*
