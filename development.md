@@ -22,7 +22,16 @@ Questions and feedback on OpenXT are welcome on the [mailing list](https://group
 + Dell, HP & Lenovo [vPro laptops and desktops](https://msp.intel.com/find-a-vpro-system): [Sandy Bridge](http://en.wikipedia.org/wiki/Sandy_Bridge), [Ivy Bridge](http://en.wikipedia.org/wiki/Ivy_Bridge_%28microarchitecture%29) or [Haswell](http://en.wikipedia.org/wiki/Haswell_%28microarchitecture%29)
 + AMD discrete GPUs for desktop PCI passthrough 
 
-### Operating Systems Development Basics
+### Breakage Basics
+
++ Stanford U, [CS155: Computer and Network Security](http://crypto.stanford.edu/cs155/) &middot; [old projects](http://crypto.stanford.edu/cs155old/) &mdash; [old solution](http://blogs.hulmahan.com.ph/archives/category/hack-101)
++ Exploit [Development](https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/) &middot; [Exercises](http://exploit-exercises.com/) &middot; [Wargames](http://smashthestack.org/faq.html#a1)
++ Reversing [Tutorials](https://tuts4you.com/download.php?list.17) &middot; [Phrack](http://phrack.org/issues/1/1.html) &middot; [Fravia](http://en.wikipedia.org/wiki/Fravia) 
++ 2010 book: [A Guide to Kernel Exploitation](http://www.amazon.com/Guide-Kernel-Exploitation-Attacking-Core/dp/1597494860) by Enrico Perla et al. 
++ 2012 book: [Practical Malware Analysis](http://www.amazon.com/Practical-Malware-Analysis-Dissecting-Malicious/dp/1593272901/) by Michael Sikorski et al.
++ 2014 book: [Practical Reverse Engineering](http://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315) by Bruce Dang et al.
+
+### Operating Systems Basics
 
 + OS Development: [Wiki](http://wiki.osdev.org) &middot; [Forum](http://forum.osdev.org)
 + Xen [Wiki](http://wiki.xenproject.org/wiki/Main_Page) &middot; [dom0 distros](http://wiki.xenproject.org/wiki/Dom0_Kernels_for_Xen) &middot; [List Search](http://www.xenproject.org/help/mailing-list.html) 
