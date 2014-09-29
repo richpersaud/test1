@@ -44,6 +44,11 @@ permalink: /history/
 
 ## Research
 
+2013
+
+* Security Protocols Workshop, [Towards a Theory of Application Compartmentalisation](http://www.cl.cam.ac.uk/~kg365/pubs/2013spw-compartmentalisation.pdf), *Robert N.M. Watson et al.*
+* ASPLOS, [Unikernels: Library Operating Systems for the Cloud](http://anil.recoil.org/papers/2013-asplos-mirage.pdf), *Anil Madhavapeddy et al.*
+
 2011 
 
 * ACM Symposium on Operating Systems Principles, [Breaking Up is Hard to Do: Security and Functionality in a Commodity Hypervisor](http://www.cs.ubc.ca/~andy/papers/xoar-sosp-final.pdf), *Patrick Colp et al.*
@@ -74,6 +79,7 @@ trusted compartment. We illustrate how this approach may be used to implement
 
 * *Computer* magazine, [Can We Make Operating Systems Reliable and Secure?](http://www.cs.vu.nl/~ast/publications/computer-2006a.pdf), *Andrew S. Tanenbaum et al.*
 * USENIX Security, [Virtualizing the Trusted Platform Module](https://www.usenix.org/event/sec06/tech/full_papers/berger/berger.pdf), *Stefan Berger et al.*
+* ASPLOS, [A Comparison of Software and Hardware Techniques for x86 Virtualization](http://www.scs.stanford.edu/13wi-cs240/sched/readings/vm-techniques.pdf), *Keith Adams et al.*
 
 2003
 
