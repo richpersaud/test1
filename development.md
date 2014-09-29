@@ -37,9 +37,11 @@ Questions and feedback on OpenXT are welcome on the [mailing list](https://group
 + Xen [Wiki](http://wiki.xenproject.org/wiki/Main_Page) &middot; [dom0 distros](http://wiki.xenproject.org/wiki/Dom0_Kernels_for_Xen) &middot; [List Search](http://www.xenproject.org/help/mailing-list.html) 
 + Linux [From Scratch](http://www.linuxfromscratch.org/) &middot; [Kernel Newbies](http://kernelnewbies.org/KernelHacking) &middot; [KVM](http://www.linux-kvm.org/page/Main_Page) &middot; [LWN](https://lwn.net/Archives/)
 + FreeBSD [Developer](https://www.freebsd.org/doc/en_US.ISO8859-1/books/developers-handbook/index.html) and [Architecture](https://www.freebsd.org/doc/en_US.ISO8859-1/books/arch-handbook/index.html) Handbooks &middot; [Xen Port](https://wiki.freebsd.org/FreeBSD/Xen) &middot; [List Search](https://www.freebsd.org/search/)
++ Assembly Language: [x32](http://www.drpaulcarter.com/pcasm/index.php) &mdash; x64: [Intro](https://software.intel.com/en-us/articles/introduction-to-x64-assembly) &middot; [CMU](http://www.cs.cmu.edu/~fp/courses/15213-s07/misc/asm64-handout.pdf) &middot; [Intel](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html) &middot; [AMD](http://developer.amd.com/resources/documentation-articles/developer-guides-manuals/) &middot; [processor](http://sandpile.org/)
 
 ### Operating Systems Courses
 
++ Carnegie Mellon U, [Intro to Computer Systems 2013](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f13/www/schedule.html)
 + U of Birmingham, [Operating Systems with C/C++ 2013/14](http://www.cs.bham.ac.uk/~exr/lectures/opsys/13_14/lectures.php), *UK*
 + M.I.T., [OS Engineering 2011](http://pdos.csail.mit.edu/6.828/2011/schedule.html) &middot; [Xv6 Teaching OS](http://pdos.csail.mit.edu/6.828/2014/xv6.html) &middot; [OpenCourseware 2006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2006/), *USA*
 + Stanford U, Advanced OS Topics 2013: [readings](http://www.scs.stanford.edu/13wi-cs240/sched/) &middot; [notes](http://www.scs.stanford.edu/13wi-cs240/notes) &middot; [HiStar Teaching OS](http://www.scs.stanford.edu/histar/), *USA*
