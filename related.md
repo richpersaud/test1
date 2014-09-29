@@ -33,7 +33,7 @@ permalink: /related/
 > "... is an open platform for developers and sysadmins to build, ship, and run distributed applications ... Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments."
 
 + [History](http://en.wikipedia.org/wiki/Docker_%28software%29)
-+ [Software](https://www.docker.com/), USA
++ [Software](https://www.docker.com/), *USA*
 
 # OpenXCI
 
