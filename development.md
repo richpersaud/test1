@@ -22,7 +22,7 @@ Questions and feedback on OpenXT are welcome on the [mailing list](https://group
 + Dell, HP & Lenovo [vPro laptops and desktops](https://msp.intel.com/find-a-vpro-system): [Sandy Bridge](http://en.wikipedia.org/wiki/Sandy_Bridge), [Ivy Bridge](http://en.wikipedia.org/wiki/Ivy_Bridge_%28microarchitecture%29) or [Haswell](http://en.wikipedia.org/wiki/Haswell_%28microarchitecture%29)
 + AMD discrete GPUs for desktop PCI passthrough 
 
-# Learning
+## Learning
 
 ### Systems Security
 
