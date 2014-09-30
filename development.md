@@ -52,6 +52,6 @@ Questions and feedback on OpenXT are welcome on the [mailing list](https://group
 ### Language Theory
 
 + Red Hat, [SE Linux Coloring Book](https://people.redhat.com/duffy/selinux/selinux-coloring-book_A4-Stapled.pdf)
-+ U Penn, [Introduction to Haskell 2013](http://www.seas.upenn.edu/~cis194/spring13/lectures.html)
++ U Penn, [CIS 194: Introduction to Haskell 2013](http://www.seas.upenn.edu/~cis194/spring13/lectures.html)
 + [Haskell Meta-Tutorial](http://www.haskell.org/haskellwiki/Meta-tutorial) &middot; [Fast & Hard](https://www.fpcomplete.com/school/to-infinity-and-beyond/pick-of-the-week/haskell-fast-hard)
 + Stephen Diehl, [What I Wish I Knew When Learning Haskell 2.1](http://dev.stephendiehl.com/hask/#cabal)
