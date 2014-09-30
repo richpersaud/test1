@@ -27,9 +27,7 @@ Questions and feedback on OpenXT are welcome on the [mailing list](https://group
 + Stanford U, [CS155: Computer and Network Security](http://crypto.stanford.edu/cs155/) &middot; [old projects](http://crypto.stanford.edu/cs155old/) &mdash; [old solution](http://blogs.hulmahan.com.ph/archives/category/hack-101)
 + Exploit [Development](https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/) &middot; [Exercises](http://exploit-exercises.com/) &middot; [Wargames](http://smashthestack.org/faq.html#a1)
 + Reversing [Tutorials](https://tuts4you.com/download.php?list.17) &middot; [Phrack](http://phrack.org/issues/1/1.html) &middot; [Fravia](http://en.wikipedia.org/wiki/Fravia) 
-+ 2010 book: [A Guide to Kernel Exploitation](http://www.amazon.com/Guide-Kernel-Exploitation-Attacking-Core/dp/1597494860) by Enrico Perla et al. 
-+ 2012 book: [Practical Malware Analysis](http://www.amazon.com/Practical-Malware-Analysis-Dissecting-Malicious/dp/1593272901/) by Michael Sikorski et al.
-+ 2014 book: [Practical Reverse Engineering](http://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315) by Bruce Dang et al.
++ Books: [Kernel Exploitation](http://www.amazon.com/Guide-Kernel-Exploitation-Attacking-Core/dp/1597494860) (2010) &middot; [Malware Analysis](http://www.amazon.com/Practical-Malware-Analysis-Dissecting-Malicious/dp/1593272901/) (2012) &middot; [Reverse Engineering](http://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315) (2014)
 
 ### Operating Systems Basics
 
@@ -45,7 +43,6 @@ Questions and feedback on OpenXT are welcome on the [mailing list](https://group
 + U of Birmingham, [Operating Systems with C/C++ 2013/14](http://www.cs.bham.ac.uk/~exr/lectures/opsys/13_14/lectures.php), *UK*
 + M.I.T., [OS Engineering 2011](http://pdos.csail.mit.edu/6.828/2011/schedule.html) &middot; [Xv6 Teaching OS](http://pdos.csail.mit.edu/6.828/2014/xv6.html) &middot; [OpenCourseware 2006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2006/), *USA*
 + Stanford U, Advanced OS Topics 2013: [readings](http://www.scs.stanford.edu/13wi-cs240/sched/) &middot; [notes](http://www.scs.stanford.edu/13wi-cs240/notes) &middot; [HiStar Teaching OS](http://www.scs.stanford.edu/histar/), *USA*
-+ U of New South Wales, [Advanced OS 2014, Microkernels, seL4](http://www.cse.unsw.edu.au/~cs9242/14/lectures/), *Australia*
-+ U of New South Wales, [Lions' Commentary on UNIX 6th Edition](http://en.wikipedia.org/wiki/Lions%27_Commentary_on_UNIX_6th_Edition,_with_Source_Code), *Australia*
++ U of New South Wales, [Advanced OS 2014](http://www.cse.unsw.edu.au/~cs9242/14/lectures/) (Microkernels) &middot; [Lions on UNIX](http://en.wikipedia.org/wiki/Lions%27_Commentary_on_UNIX_6th_Edition,_with_Source_Code), *Australia*
 
 
