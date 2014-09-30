@@ -36,10 +36,10 @@ Questions and feedback on OpenXT are welcome on the [mailing list](https://group
 ### Operating Systems Development
 
 + OS Development [Wiki](http://wiki.osdev.org) &middot; [Forum](http://forum.osdev.org)
-+ Xen [Wiki](http://wiki.xenproject.org/wiki/Main_Page) &middot; [dom0 distros](http://wiki.xenproject.org/wiki/Dom0_Kernels_for_Xen) &middot; [List Search](http://www.xenproject.org/help/mailing-list.html) 
++ Xen [Wiki](http://wiki.xenproject.org/wiki/Main_Page) &middot; [dom0 distros](http://wiki.xenproject.org/wiki/Dom0_Kernels_for_Xen) &middot; [Mini-OS](http://www.cs.uic.edu/~spopuri/minios.html) &middot; [List Search](http://www.xenproject.org/help/mailing-list.html) 
 + Linux [From Scratch](http://www.linuxfromscratch.org/) &middot; [Kernel Newbies](http://kernelnewbies.org/KernelHacking) &middot; [KVM](http://www.linux-kvm.org/page/Main_Page) &middot; [LWN](https://lwn.net/Archives/)
 + FreeBSD [Developer](https://www.freebsd.org/doc/en_US.ISO8859-1/books/developers-handbook/index.html) and [Architecture](https://www.freebsd.org/doc/en_US.ISO8859-1/books/arch-handbook/index.html) Handbooks &middot; [Xen Port](https://wiki.freebsd.org/FreeBSD/Xen) &middot; [List Search](https://www.freebsd.org/search/)
-+ Assembly Language: [x32](http://www.drpaulcarter.com/pcasm/index.php) &mdash; [x64](https://software.intel.com/en-us/articles/introduction-to-x64-assembly) &middot; [CMU](http://web.archive.org/web/20140929141319/http://www.cs.cmu.edu/~fp/courses/15213-s07/misc/asm64-handout.pdf) &middot; [Intel](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html) &middot; [AMD](http://developer.amd.com/resources/documentation-articles/developer-guides-manuals/) &middot; [processor](http://sandpile.org/)
++ Assembly: [x32](http://www.drpaulcarter.com/pcasm/index.php) &mdash; [x64](https://software.intel.com/en-us/articles/introduction-to-x64-assembly) &middot; [CMU](http://web.archive.org/web/20140929141319/http://www.cs.cmu.edu/~fp/courses/15213-s07/misc/asm64-handout.pdf) &middot; [Intel](http://www.intel.com/content/www/us/en/processors/architectures-software-developer-manuals.html) &middot; [AMD](http://developer.amd.com/resources/documentation-articles/developer-guides-manuals/) &middot; [processor](http://sandpile.org/) &middot; [TXT](https://play.google.com/store/books/details/William_Futral_Intel_Trusted_Execution_Technology_?id=HbAAAQAAQBAJ&hl=en) &middot; [SGX](https://www.virusbtn.com/virusbulletin/archive/2014/01/vb201401-SGX)
 
 ### Operating Systems Theory
 

@@ -49,13 +49,15 @@ permalink: /related/
 
 ### Unikernels
 
-> Single-purpose appliances, compile-time specialised into standalone kernels, and sealed against modification after deployment to a virtualization platform.
+> Single-purpose appliances, build-time specialised into standalone kernels, and sealed against modification after deployment.
 
-+ C/Java: [Cloudius OSV](http://osv.io), *Israel*
++ C/Java, [Cloudius OSV](http://osv.io), *Israel*
++ C++, [Arrakis](http://arrakis.cs.washington.edu/), *USA, Switzerland*
 + [Click Modular Router](http://www.read.cs.ucla.edu/click/), *USA*
-+ Haskell: [HaLVM](http://halvm.org), *USA*
-+ Lua: [Towards a Lua scripted OS](http://www.lua.org/wshop13/Cormack.pdf) &middot; [rumpuser-xen](https://github.com/justincormack/rumpuser-xen), *UK*
-+ Ocaml: [OpenMirage](http://openmirage.org), *UK*
++ Go, [Clive](http://lsub.org/ls/clive.html), *Spain*
++ Haskell, [HaLVM](http://halvm.org), *USA*
++ Lua, [Towards a Lua scripted OS](http://www.lua.org/wshop13/Cormack.pdf) &middot; [rumpuser-xen](https://github.com/justincormack/rumpuser-xen), *UK*
++ Ocaml, [OpenMirage](http://openmirage.org), *UK*
 
 
 ### Minimal OS Appliances
