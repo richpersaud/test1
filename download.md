@@ -27,6 +27,7 @@ Automated testing for Xen and XenServer:
 + Sep 2013, OSSTest [Standalone Mode Step by Step](https://blog.xenproject.org/2013/09/30/osstest-standalone-mode-step-by-step/)
 + Nov 2009, [Practical Xen Testing at Intel](http://www.slideshare.net/xen_com_mgr/practical-xen-testing-at-intel)
 + 2005, IBM, [Testing the Xen Hypervisor and Linux Virtual Machines](https://www.kernel.org/doc/ols/2005/ols2005v1-pages-279-288.pdf)
++ 2005, [Xen 3.0 Test CD](http://osdir.com/ml/xen-users/2005-11/msg00584.html)
 
 Automated testing for Linux distros:
 
