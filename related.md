@@ -86,6 +86,10 @@ permalink: /related/
 
 > ChromeOS fork, customized for server hardware and Linux Containers with Docker
 
++ [Aboriginal Linux](http://landley.net/aboriginal/about.html)
+
+> Shell script that builds the smallest/simplest linux system capable of rebuilding itself from source code. This currently requires seven packages: linux, busybox, uClibc, binutils, gcc, make, and bash. 
+
 + [Open vSwitch](http://openvswitch.org/), *USA*
 
 > Linux/FreeBSD virtual switch supports flows, VLANs, trunking, port aggregation and more
