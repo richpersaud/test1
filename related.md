@@ -51,8 +51,9 @@ permalink: /related/
 
 > "... is an open platform for developers and sysadmins to build, ship, and run distributed applications ... Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments."
 
-+ [History](http://en.wikipedia.org/wiki/Docker_%28software%29)
++ [History](http://en.wikipedia.org/wiki/Docker_%28software%29) &middot; [Containers](https://www.usenix.org/system/files/login/articles/login_1410_02-bottomley.pdf)
 + [Software](https://www.docker.com/), USA
++ [Images](https://registry.hub.docker.com/)
 
 ### Vagrant
 
