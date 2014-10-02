@@ -17,11 +17,6 @@ We are hosting a [mirror](http://openxt.org/mirror) of 3rd-party components need
 
 Questions and feedback on OpenXT are welcome on the [mailing list](https://groups.google.com/forum/#!forum/openxt).
 
-### Hardware Platform
-
-+ Dell, HP & Lenovo [vPro devices](https://msp.intel.com/find-a-vpro-system) with Intel GPUs: [Sandy Bridge](http://en.wikipedia.org/wiki/Sandy_Bridge), [Ivy Bridge](http://en.wikipedia.org/wiki/Ivy_Bridge_%28microarchitecture%29) or [Haswell](http://en.wikipedia.org/wiki/Haswell_%28microarchitecture%29)
-+ AMD discrete GPUs for desktop PCI passthrough 
-
 ## Learning
 
 ### Systems Security
@@ -30,7 +25,8 @@ Questions and feedback on OpenXT are welcome on the [mailing list](https://group
 + Books: [Systemantics](http://en.wikipedia.org/wiki/Systemantics) (1975) &middot; [TAOSSA](http://www.amazon.com/Art-Software-Security-Assessment-Vulnerabilities/dp/0321444426/) (2006) &middot; [Kernel Exploitation](http://www.amazon.com/Guide-Kernel-Exploitation-Attacking-Core/dp/1597494860) (2010) &middot; [Malware Analysis](http://www.amazon.com/Practical-Malware-Analysis-Dissecting-Malicious/dp/1593272901/) (2012) &middot; [Reverse Engineering](http://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315) (2014) 
 + Exploit [Development](https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/) &middot; [Exercises](http://exploit-exercises.com/) &middot; [Wargames](http://smashthestack.org/faq.html#a1)
 + Reversing [Tutorials](https://tuts4you.com/download.php?list.17) &middot; [Phrack](http://phrack.org/issues/1/1.html) &middot; [Fravia](http://en.wikipedia.org/wiki/Fravia) 
-+ History: [Boebert on Secure Coding](http://catless.ncl.ac.uk/Risks/27.25.html#subj16) &middot; [Schaefer on TCSEC](https://www.acsac.org/2004/papers/ClassicPaperSchafer.pdf) &middot; [Cryptography List](https://www.mail-archive.com/cryptography@metzdowd.com/) &middot; [RISKS Digest](http://catless.ncl.ac.uk/Risks/)
++ History: [Boebert on Secure Coding](http://catless.ncl.ac.uk/Risks/27.25.html#subj16) &middot; [Schaefer on TCSEC](https://www.acsac.org/2004/papers/ClassicPaperSchafer.pdf) &middot; [RISKS Digest](http://catless.ncl.ac.uk/Risks/) &middot; [Cryptography List](https://www.mail-archive.com/cryptography@metzdowd.com/)
+
 
 
 ### Operating Systems Development

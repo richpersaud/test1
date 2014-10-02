@@ -4,6 +4,10 @@ title: Related
 permalink: /related/
 ---
 
+
+# Platform Appliances
+----
+
 ### L4
 
 > "... is a family of second-generation microkernels, generally used to implement Unix-like operating systems, but also used in a variety of other systems ... L4 is widely deployed. One variant, OKL4 from Open Kernel Labs, shipped in billions of mobile devices"
@@ -28,13 +32,6 @@ permalink: /related/
 
 + [Software](http://xenserver.org), *UK*
 
-### Docker
-
-> "... is an open platform for developers and sysadmins to build, ship, and run distributed applications ... Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments."
-
-+ [History](http://en.wikipedia.org/wiki/Docker_%28software%29)
-+ [Software](https://www.docker.com/), USA
-
 ### OpenXCI
 
 > "... is a Xen-based desktop hypervisor. Unlike other desktop hypervisors, it is not targeted at businesses wanting remote provisioning, but rather at individuals who want a high-performance alternative to dual/multi-booting."
@@ -46,6 +43,24 @@ permalink: /related/
 > "... provides stronger security services which are more resistant to attack and abstractions which are less prone to abuse by attackers. As an example of the former, all networking in Ethos is encrypted, authenticated, and authorized. As an example of the latter, Ethos I/O is typed (as in programming languages) ensuring that I/O conforms to declared types and thus preventing many attacks based on ill-formed input."
 
 + [U of Illinois Research](https://www.ethos-os.org/), *USA*
+
+# Guest Appliances
+------
+
+### Docker
+
+> "... is an open platform for developers and sysadmins to build, ship, and run distributed applications ... Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments."
+
++ [History](http://en.wikipedia.org/wiki/Docker_%28software%29)
++ [Software](https://www.docker.com/), USA
+
+### Vagrant
+
+> Is used to "create and configure lightweight, reproducible, and portable development environments". It can be considered a wrapper around VirtualBox, VMware, Docker, AWS and libvirt.
+
++ [History](http://en.wikipedia.org/wiki/Vagrant_%28software%29)
++ [Software](https://www.vagrantup.com/), *USA, Japan*
++ [Templates](http://www.vagrantbox.es/)
 
 ### Unikernels
 
@@ -60,7 +75,7 @@ permalink: /related/
 + Ocaml, [OpenMirage](http://openmirage.org), *UK*
 
 
-### Minimal OS Appliances
+### Linux
 
 + [Alpine Linux](http://alpinelinux.org/), *Europe*
 
@@ -74,7 +89,9 @@ permalink: /related/
 
 > Linux/FreeBSD virtual switch supports flows, VLANs, trunking, port aggregation and more
 
-### Proprietary
+# Proprietary
+------
+
 
 + [Bromium &middot; vSentry](http://www.bromium.com/products/vsentry.html) &middot; [video](http://www.bromium.com/videos/how-does-microvirtualization-protect-you.html), *USA, UK*
 + [Cloudozer](http://cloudozer.com/) &middot; [ Erlang on Xen](http://erlangonxen.org/), *UK, Germany*
