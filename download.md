@@ -39,9 +39,9 @@ Automated testing for Linux distros:
 
 ## Hardware Disclaimer
 
-As an open-source project, OpenXT does not offer any guarantee of compatibility with specific hardware models or BIOS versions.  Hardware is tested by OEMs and integrators of vertical solutions based on the OpenXT toolkit.  Please contact your [OEM or system integrator]({{ site.baseurl }}/interoperability) for more information about hardware compatibility.
+As an open-source project, OpenXT does not offer any guarantee of compatibility with specific hardware models or BIOS versions.  Hardware is tested by OEMs and integrators of vertical solutions based on the OpenXT toolkit.  Please contact your [OEM or system integrator]({{ site.baseurl }}/interoperability) for more information about [hardware compatibility](https://github.com/OpenXT/openxt/wiki/Hardware-Compatibility).
 
-The devices on this page have exhibited, *at some time in the past*, a model and BIOS combination which enabled the TPM, VT-d (NIC/GPU passthrough) and TXT (measured launch) hardware functions used by OpenXT components.  This does not guarantee that any current device model and BIOS combination will be compatible with any software binary derived from the OpenXT toolkit.
+The devices on this page have exhibited, *at some time in the past*, a model and BIOS combination which enabled the TPM, VT-d (NIC/GPU passthrough) and TXT (measured launch) hardware functions [used by OpenXT](https://github.com/OpenXT/openxt/wiki/Hardware) components.  This does not guarantee that any current device model and BIOS combination will be compatible with any software binary derived from the OpenXT toolkit.
 
 Intel maintains a list of Dell, HP & Lenovo [vPro devices](https://msp.intel.com/find-a-vpro-system). OpenXT requires devices with integrated Intel GPUs, for the [Sandy Bridge](http://en.wikipedia.org/wiki/Sandy_Bridge), [Ivy Bridge](http://en.wikipedia.org/wiki/Ivy_Bridge_%28microarchitecture%29) and [Haswell](http://en.wikipedia.org/wiki/Haswell_%28microarchitecture%29) generations.
 
