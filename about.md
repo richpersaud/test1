@@ -16,7 +16,7 @@ Project goals include:
 
 # What can you do with OpenXT?
 
-+ **_Researcher?_** &nbsp; With the performance of a bare-metal hypervisor, the customizability of an open platform, the freedom of Linux scientific computing, the productivity of a Windows desktop, protection of high-value research data and isolation of experimental workloads &mdash; OpenXT appliances can accelerate and protect innovation.
++ **_Researcher?_** &nbsp; With the performance of a bare-metal hypervisor, the customizability of an open platform, the freedom of Linux scientific computing, the productivity of a Windows desktop, protection of research data and isolation of experimental workloads &mdash; OpenXT appliances can accelerate and protect innovation.
 <br>
 <br>
 + **_OEM?_** &nbsp; Each device's OpenXT validation cycle can support multiple versions of multiple operating systems and apps, growing the <a href="http://www.softwareecosystems.org/">ecosystem</a> of device developers.  Innovative hardware is integrated once to support platform appliances for multiple vertical markets. Premium, virtualization-optimized devices can help users maximize business value from diverse workloads.
