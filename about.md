@@ -14,7 +14,7 @@ Project goals include:
 + Technical documentation for appliance developers
 + Interoperability of platform and guest appliances
 
-# Ecosystem [Benefits](http://www.useronboard.com/features-vs-benefits/>Benefits)
+# What can you do with OpenXT?
 
 + **_Researcher:_** &nbsp; With the performance of a bare-metal hypervisor, the freedom of Linux scientific computing, the productivity of a Windows desktop, protection of high-value data and strong isolation of experimental workloads &mdash; OpenXT appliances can unlock innovation.
 <br>
