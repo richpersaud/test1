@@ -29,3 +29,4 @@ Project goals include:
 <br>
 <br>
 + **_Buyer?_** &nbsp; OpenXT appliances can combine off-the-shelf software economics with the usability and compliance of a tailored vertical solution, thanks to hardware-assisted isolation and policy management of vendor workloads. This increases business flexibility, as interoperable OpenXT investments can be reconfigured in response to user, departmental, regional or M&A changes.
+
