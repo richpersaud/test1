@@ -79,7 +79,7 @@ Automated testing for Linux distros:
 
 ## Hardware Disclaimer
 
-As an open-source project, OpenXT does not offer any guarantee of compatibility with specific hardware models or BIOS versions.  Hardware is tested by OEMs and integrators of vertical solutions based on the OpenXT toolkit.  Please contact your [OEM or system integrator]({{ site.baseurl }}/interoperability) for more information about [hardware compatibility](https://github.com/OpenXT/openxt/wiki/Hardware-Compatibility).
+As an open-source project, OpenXT does not offer any guarantee of compatibility with specific hardware models or BIOS versions.  Hardware is tested by OEMs and integrators of vertical solutions based on the OpenXT toolkit.  
 
 The devices on this page have exhibited, *at some time in the past*, a model and BIOS combination which enabled the TPM, VT-d (NIC/GPU passthrough) and TXT (measured launch) hardware functions [used by OpenXT](https://github.com/OpenXT/openxt/wiki/Hardware) components.  This does not guarantee that any current device model and BIOS combination will be compatible with any software binary derived from the OpenXT toolkit.
 
