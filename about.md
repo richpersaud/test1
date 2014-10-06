@@ -28,5 +28,4 @@ Project goals include:
 + **_Enterprise IT?_** &nbsp; OS upgrades can be decoupled from hardware upgrades. Transitions can be timed for business benefits from new hardware and software, without disrupting legacy workflows.  OpenXT virtualization can increase choice in concurrent workloads, reduce infrastructure costs, and isolate operational risks of new applications and network services.
 <br>
 <br>
-+ **_Buyer?_** &nbsp; OpenXT appliances can combine off-the-shelf software economics with the usability and compliance of a tailored vertical solution, with hardware-assisted isolation and policy management of vendor workloads. This increases business flexibility, as interoperable OpenXT investments can be reconfigured in response to user, departmental, regional or M&A changes.
-
++ **_Buyer?_** &nbsp; OpenXT appliances can integrate off-the-shelf (COTS) software with the usability and compliance of a tailored vertical solution, including hardware-assisted isolation and policy management of supplier workloads. This increases business flexibility, as interoperable OpenXT investments can be resilient to changes in supply chains, security threat models and business leader priorities.
