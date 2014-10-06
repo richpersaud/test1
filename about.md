@@ -19,7 +19,7 @@ Project goals include:
 + **_Researcher?_** &nbsp; With the performance of a bare-metal hypervisor, the customizability of an open platform, the freedom of Linux scientific computing, the productivity of a Windows desktop, protection of research data and isolation of experimental workloads &mdash; OpenXT appliances can accelerate and protect innovations.
 <br>
 <br>
-+ **_OEM?_** &nbsp; Each device's OpenXT validation cycle can support multiple versions of multiple operating systems and apps, growing the <a href="http://www.softwareecosystems.org/">ecosystem</a> of device developers.  Innovative hardware can be integrated once to support platform appliances for multiple vertical markets. Premium, virtualization-optimized devices can help users maximize business value from diverse workloads.
++ **_OEM?_** &nbsp; Each device's OpenXT validation cycle can support multiple versions of multiple operating systems and applications, growing the <a href="http://www.softwareecosystems.org/">ecosystem</a> of device developers.  Innovative hardware can be integrated once to support platform appliances for multiple vertical markets. Premium, virtualization-optimized devices can help users maximize business value from diverse workloads.
 <br>
 <br>
 + **_Integrator?_** &nbsp; Developing an operating system requires <a href="http://www.linuxfoundation.org/sites/main/files/publications/estimatinglinux.html">expensive skills</a> to keep pace with both hardware innovation cycles and vertical market requirements.  As a royalty-free interoperability toolkit, OpenXT can maximize compatibility between hardware and specialty workloads, improving time-to-market and breadth of functionality for custom vertical solutions.
