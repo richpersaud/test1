@@ -25,7 +25,7 @@ Project goals include:
 + **_Integrator?_** &nbsp; Developing an operating system requires <a href="http://www.linuxfoundation.org/sites/main/files/publications/estimatinglinux.html">expensive skills</a> to keep pace with both hardware innovation cycles and vertical market requirements.  As a royalty-free interoperability toolkit, OpenXT can maximize compatibility between hardware and specialty workloads, improving time-to-market and breadth of functionality for custom vertical solutions.
 <br>
 <br>
-+ **_Enterprise IT?_** &nbsp; OS upgrades can be decoupled from hardware upgrades. Transitions can be timed for business benefits from new hardware and software, without disrupting legacy workflows.  Virtualization increases choice in workloads, reduces cost and isolates the operational risk of new applications and network services.
++ **_Enterprise IT?_** &nbsp; OS upgrades can be decoupled from hardware upgrades. Transitions can be timed for business benefits from new hardware and software, without disrupting legacy workflows.  Virtualization increases choice in concurrent workloads, reduces cost and isolates the operational risk of new applications and network services.
 <br>
 <br>
 + **_Buyer?_** &nbsp; OpenXT appliances can combine off-the-shelf software economics with the usability and compliance of a tailored vertical solution, thanks to hardware-assisted isolation and policy management of vendor workloads. This increases business flexibility, as interoperable OpenXT investments can be reconfigured in response to user, departmental, regional or M&A changes.
