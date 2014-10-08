@@ -22,6 +22,8 @@ permalink: /history/
 
 > Multi-Level (MLS) Hypervisor for Server 
 
+* Thoughts on Intel's upcoming Software Guard Extensions, [Part 1](http://theinvisiblethings.blogspot.com/2013/08/thoughts-on-intels-upcoming-software.html), [Part 2](http://theinvisiblethings.blogspot.com/2013/09/thoughts-on-intels-upcoming-software.html), *Joanna Rutkowska*
+
 #### 2012 
 
 * Xen Summit, [&mu;-Xen](http://www.slideshare.net/xen_com_mgr/xen-14203926), *Ian Pratt*
