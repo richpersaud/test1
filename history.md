@@ -40,6 +40,10 @@ permalink: /history/
 
 > Secure GUI, Secure networking, Secure storage, Analysis of potential attack vectors
 
+#### 2009 
+
+* Xen Summit, [HXEN: Hosted Xen Type-2 VMM for Windows](http://wiki.xen.org/old-wiki/xenwiki/Xen_HXEN.html), *Christian Limpach & Peter Johnston*
+
 #### 2007 
 
 * Xen Summit, [Trusted Boot: Verifying the Xen Launch](http://www-archive.xenproject.org/files/xensummit_fall07/23_JosephCihula.pdf), *Joseph Cihula*

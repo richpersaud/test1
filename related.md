@@ -103,6 +103,7 @@ permalink: /related/
 + [Fox IT &middot; DataDiode](https://www.fox-it.com/en/products/datadiode/) &middot; [video](http://www.youtube.com/watch/vemwnQmnvuo), *Netherlands*
 + [Green Hills &middot; Integrity Multivisor](http://www.ghs.com/products/rtos/integrity_virtualization.html), *USA, UK*
 + [Moka5](http://www.moka5.com/), *USA*
++ [PrivateCore](http://en.wikipedia.org/wiki/PrivateCore) &middot; Aug 2014 [acquired](http://techcrunch.com/2014/08/07/facebook-buys-secure-server-technology-provider-privatecore/) by Facebook, *USA*
 + [Raytheon &middot; Trusted Thin Client](https://www.trustedcs.com/products/TrustedThinClient.html), *USA*
 + [Secunet &middot; SINA Virtual Workstation](http://www.secunet.com/en/topics-solutions/high-security/sina/sina-workstation/), *Germany*
 + [Tresys &middot; VMFortress](http://www.tresys.com/products/vm-fortress.php), *USA*
