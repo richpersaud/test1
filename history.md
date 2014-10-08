@@ -42,7 +42,9 @@ permalink: /history/
 
 #### 2009 
 
-* Xen Summit, [HXEN: Hosted Xen Type-2 VMM for Windows](http://wiki.xen.org/old-wiki/xenwiki/Xen_HXEN.html), *Christian Limpach & Peter Johnston*
+* Xen Summit, [HXEN: Hosted Xen](http://wiki.xen.org/old-wiki/xenwiki/Xen_HXEN.html), *Christian Limpach & Peter Johnston*
+
+> Type-2 Hypervisor for Windows Host
 
 #### 2007 
 
