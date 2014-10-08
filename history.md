@@ -22,7 +22,7 @@ permalink: /history/
 
 > Multi-Level (MLS) Hypervisor for Server 
 
-* Thoughts on Intel's upcoming Software Guard Extensions, [Part 1](http://theinvisiblethings.blogspot.com/2013/08/thoughts-on-intels-upcoming-software.html), [Part 2](http://theinvisiblethings.blogspot.com/2013/09/thoughts-on-intels-upcoming-software.html), *Joanna Rutkowska*
+* [Thoughts on Intel's upcoming Software Guard Extensions, Part 1](http://theinvisiblethings.blogspot.com/2013/08/thoughts-on-intels-upcoming-software.html) &middot; [Part 2](http://theinvisiblethings.blogspot.com/2013/09/thoughts-on-intels-upcoming-software.html), *Joanna Rutkowska*
 
 #### 2012 
 
