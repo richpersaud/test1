@@ -9,15 +9,15 @@ permalink: /summit/
 
 The inaugural OpenXT Summit brings together developers and ecosystem participants for a 2-day conference in Fairfax, VA on June 7-8, 2016.
 
-#### Registration
+### Registration
 
 There is no fee for attendance, but space is limited.  To reserve a seat, please email persaur at gmail dot com, including your first name, last name and organizational affiliation.
 
-#### Location
+### Location
 
 The event will take place at [Intel Federal](https://goo.gl/maps/hqaSDhDshx62), 4100 Monument Corner Drive, Suite 540, Fairfax, VA 22030.
 
-#### Presentation Agenda: Tuesday 7 June, 2016
+### Presentation Agenda: Tuesday 7 June, 2016
 
  * 08:45 Introduction, *Speaker TBD*
  
@@ -67,7 +67,7 @@ The event will take place at [Intel Federal](https://goo.gl/maps/hqaSDhDshx62), 
  
  * 17:15 End of Day 1 presentations 
 
-#### Discussion Agenda: Wednesday 8 June, 2016
+### Discussion Agenda: Wednesday 8 June, 2016
 
  * 09:00 Definition: Base Platform
  * 09:30 Definition: Layers and Modular Build
@@ -86,7 +86,7 @@ The event will take place at [Intel Federal](https://goo.gl/maps/hqaSDhDshx62), 
  * 17:00 End of Day 2 discussions
  
 
-#### Hotels
+### Hotels
 
  * 2 miles, [Fairfax Marriott at Fair Oaks](http://www.marriott.com/hotels/travel/iadmc-fairfax-marriott-at-fair-oaks/)
  * 2 miles, [Hilton Garden Inn Fairfax](http://hiltongardeninn3.hilton.com/en/hotels/virginia/hilton-garden-inn-fairfax-IADFHGI/index.html)
@@ -94,7 +94,7 @@ The event will take place at [Intel Federal](https://goo.gl/maps/hqaSDhDshx62), 
  * 3 miles, [Hampton Inn Fairfax City](http://hamptoninn3.hilton.com/en/hotels/virginia/hampton-inn-fairfax-city-FFCVAHX/index.html)
  * 8 miles, [Westin Reston Heights](http://westinreston.com)
 
-#### Air and Train
+### Air and Train
 
  * 6 miles, Washington Metro station, Vienna/Fairfax-GMU (Orange Line)
  * 12 miles, Dulles (IAD) Airport
