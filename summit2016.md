@@ -98,4 +98,3 @@ The event will take place at [Intel Federal](https://goo.gl/maps/hqaSDhDshx62), 
  * 12 miles, Dulles (IAD) Airport
  * 22 miles, Washington Reagan (DCA) Airport
  * 24 miles, Amtrak Union Station
-
