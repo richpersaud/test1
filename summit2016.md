@@ -44,6 +44,8 @@ The event will take place at [Intel Corporation](https://goo.gl/maps/hqaSDhDshx6
  > As the OpenXT platform has developed and matured, the upstream Xen community has focused on a number of new architectural developments and enhancements—many of which can be used to significantly enhance the OpenXT project. This talk explores two separate areas that may significantly shape the future of OpenXT: the development of client virtualization support for ARM platforms, and the potential to leverage new Xen features and disaggregation techniques to significantly improve OpenXT’s security posture
 
  * 13:30 Display Handlers, *Brendan Kerrigan*, Assured Information Security
+ 
+ > Display Handler is a framework and implementation for handling diverse guest and host rendering environments in client virtualization systems. The goal of the project was to address deficiencies in OpenXT's surfman, while providing flexibility to easily integrate forthcoming virtual graphics technologies (such as Intel XenGT). This talk will cover the overall architecture, design decisions, strengths, and weaknesses of Display Handler. It will also provide a comparison of surfman, as currently integrated into OpenXT, and Display Handler. Finally, a road map for future work will be presented.
 
  * 14:00 Toolstack Modernization, *Chris Rogers*, Assured Information Security
  
