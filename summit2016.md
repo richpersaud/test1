@@ -11,11 +11,11 @@ The inaugural OpenXT Summit brings together developers and ecosystem participant
 
 ### Registration
 
-There is no fee for attendance, but space is limited.  To reserve a seat, please email persaur at gmail dot com, including your first name, last name and organizational affiliation.
+There is no fee for attendance, but space is limited.  To reserve a seat, please email persaur at gmail dot com, including your first name, last name and organizational affiliation.  Building security will check identification against the list of registered attendees.
 
 ### Location
 
-The event will take place at [Intel Federal](https://goo.gl/maps/hqaSDhDshx62), 4100 Monument Corner Drive, Suite 540, Fairfax, VA 22030.
+The event will take place at [Intel Corporation](https://goo.gl/maps/hqaSDhDshx62), 4100 Monument Corner Drive, Suite 540, Fairfax, VA 22030.
 
 ### Presentation Agenda: Tuesday 7 June, 2016
 
