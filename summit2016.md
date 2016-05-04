@@ -77,7 +77,7 @@ The event will take place at [Intel Corporation](https://goo.gl/maps/hqaSDhDshx6
  
  * 16:45 Virtualization Business Models, *Rich Persaud*, BAE Systems
  
- > License revenue for proprietary operating systems on OEM hardware is being supplanted by vertically integrated hardware, utility pricing of hosted services, and fees from "app store" software distribution. End-users often work across multiple devices, connected to public and private services. As diverse hardware and networked services proliferate, in complex supply chains with open and closed components, how can virtualization architectures support evolving business models?
+ > License revenue for proprietary operating systems on OEM hardware is being supplanted by vertically integrated hardware, utility pricing of hosted services, and fees from "app store" software distribution. End-users often work across multiple device form factors, connected to public and private services. As diverse hardware and networked services proliferate, in complex supply chains with open and closed components, how can virtualization architectures support evolving business models?
  
  * 17:15 End of Day 1 presentations 
 
