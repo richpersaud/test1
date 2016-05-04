@@ -23,6 +23,8 @@ The event will take place at [Intel Corporation](https://goo.gl/maps/hqaSDhDshx6
  
  * 09:00 Secure Virtual Platform Research, *Speaker TBD*
  
+ > Abstract in review
+ 
  * 09:45 OpenXT Platform, *Ross Philipson*, Assured Information Security
  
  > Can OpenXT be moved towards an extensible platform model? The key concepts to be covered are, (a) minimal base platform with core security attributes central to OpenXT, (b) layers that enable the base platform to be easily extended and customized.
@@ -34,8 +36,12 @@ The event will take place at [Intel Corporation](https://goo.gl/maps/hqaSDhDshx6
  * 10:45 Break
 
  * 11:00 meta-selinux, grub2, TPM2, *Philip Tricca*, Intel Corp.
+ 
+ > Abstract in review
 
  * 11:30 Measured Launch, *Daniel Smith*, Apertus Solutions
+ 
+ > Abstract in review
 
  * 12:00 Lunch
 
@@ -61,11 +67,17 @@ The event will take place at [Intel Corporation](https://goo.gl/maps/hqaSDhDshx6
  
 > As networks become increasingly targeted by attackers in search of sensitive data, a new data protection model is arising: one in which data must be protected even on contested networks. In this new paradigm, a stronger isolation boundary is needed than the current process model of the status quo: hardware-enforced enclaves are a step towards true data protection in contested networks. This talk provides a background of enclaves provided by Intel SGX, followed by an example case study of well-known malware that could have been prevented through the deployment of enclave technologies. Finally a discussion on the weaknesses of the current enclave technologies is provided before concluding remarks.
  
- * 15:45 Topic TBD, *Speaker TBD*, Intel Corp.
+ * 15:45 Topic TBD, *Speaker TBD*
+ 
+ > Abstract TBD
  
  * 16:15 ServiceVMs and why APIs matter, Daniel Smith, Apertus Solutions
  
+ > Abstract in review
+ 
  * 16:45 Virtualization Business Models, *Rich Persaud*, BAE Systems
+ 
+ > License revenue for proprietary operating systems on OEM hardware is being supplanted by vertically integrated hardware, utility pricing of hosted services, and fees from "app store" software distribution. End-users often work on multiple devices, connected to public and private services. As diverse hardware and networked services proliferate, in complex supply chains with open and closed components, how can virtualization architectures support evolving business models?
  
  * 17:15 End of Day 1 presentations 
 
