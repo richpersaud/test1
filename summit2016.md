@@ -11,7 +11,12 @@ The inaugural OpenXT Summit brings together developers and ecosystem participant
 
 ### Registration
 
-There is no fee for attendance, but space is limited and building security will check identification against the list of registered attendees.  To reserve a seat, please email persaur at gmail dot com, including your first name, last name and organizational affiliation.  
+There is no fee for attendance, but space is limited and building security will check identification against the list of registered attendees.  To reserve a seat, please email [summit2016@openxt.org](mailto:summit2016@openxt.org) with the following information:
+
+ * First and last name
+ * Organizational affiliation
+ * Include name in public attendee list: Yes/No
+ 
 
 ### Location
 
