@@ -94,7 +94,7 @@ The event will take place at [Intel Corporation](https://goo.gl/maps/hqaSDhDshx6
 
 ### Discussion Agenda: Wednesday 8 June, 2016
 
- * 09:00 Definition: Base Platform
+ * 09:00 Definition: Base Platform, Disaggregated dom0
  * 09:30 Definition: Layers and Modular Build
  * 10:00 Definition: Display Architectures, UX
  * 10:40 Break
