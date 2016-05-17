@@ -99,7 +99,7 @@ The event will take place at [Intel Corporation](https://goo.gl/maps/hqaSDhDshx6
  * 10:00 Definition: Display Architectures, UX
  * 10:40 Break
  * 11:00 Planning: Upstream: Xen, Qemu, OpenEmbedded, meta-virtualization, meta-openxt 
- * 11:30 Planning: Governance
+ * 11:30 Planning: Governance, Security Disclosure Process
  * 12:00 Lunch
  * 13:00 Strategy: UEFI, SecureBoot, TPM2, Virtual TPM, VMCS Shadowing
  * 13:30 Strategy: Modular Policy (SE Linux, XSM, Toolstack, Service VM)
