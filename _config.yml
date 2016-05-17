@@ -7,8 +7,8 @@ baseurl: "/test1" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username:  
 jira_url: https://openxt.atlassian.net
-github_username:  
-github_srcpath: OpenXT
+github_username: OpenXT
+confluence_url:  https://openxt.atlassian.net/wiki
 googlegroup: openxt
 
 # Build settings
