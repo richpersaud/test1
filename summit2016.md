@@ -103,7 +103,7 @@ The event will take place at [Intel Corporation](https://goo.gl/maps/hqaSDhDshx6
  * 12:00 Lunch
  * 13:00 Strategy: UEFI, SecureBoot, TPM2, Virtual TPM, VMCS Shadowing
  * 13:30 Strategy: Modular Policy (SE Linux, XSM, Toolstack, Service VM)
- * 14:00 Strategy: Tablets and ARM
+ * 14:00 Strategy: Tablets, Mobility, Embedded and ARM
  * 14:30 Strategy: Use Case Spectrum, NIAP Protection Profiles
  * 15:00 Break
  * 15:20 Strategy: Platform APIs, Ecosystem Interfaces, Compatibility, HCL
