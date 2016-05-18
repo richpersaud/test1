@@ -115,6 +115,10 @@ trusted compartment. We illustrate how this approach may be used to implement
 
 * USENIX Security, [The Flask Security Architecture: System Support for Diverse Security Policies](https://www.cs.cmu.edu/~dga/papers/flask-usenixsec99.pdf), *Ray Spencer et al.*
 
+#### 1991
+
+* IEEE Transactions on Software Engineering, [A Retrospective on the VAX VMM Security Kernel](http://www.cse.psu.edu/~trj1/cse543-f06/papers/vax_vmm.pdf), *Paul Karger et al.*
+ 
 #### 1981
 
 * IBM Journal of Research & Development, [The Origin of the VM/370 Time-sharing System](http://lass.cs.umass.edu/~shenoy/courses/fall07/papers/vm370.pdf), *R.J. Creasy*
