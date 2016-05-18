@@ -105,6 +105,10 @@ trusted compartment. We illustrate how this approach may be used to implement
 * USENIX Security, [Virtualizing the Trusted Platform Module](https://www.usenix.org/event/sec06/tech/full_papers/berger/berger.pdf), *Stefan Berger et al.*
 * ASPLOS, [A Comparison of Software and Hardware Techniques for x86 Virtualization](http://www.scs.stanford.edu/13wi-cs240/sched/readings/vm-techniques.pdf), *Keith Adams et al.*
 
+#### 2005
+
+* Annual Computer Security Applications Conference, [A Nitpicker's guide to a minimal-complexity secure GUI](https://www.acsac.org/2005/papers/54.pdf), Norman Feske and Christian Helmuth
+
 #### 2003
 
 * ACM Symposium on Operating Systems Principles, [Xen and the Art of Virtualization](http://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf), *Paul Barham et al.*
