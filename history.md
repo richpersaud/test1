@@ -6,6 +6,10 @@ permalink: /history/
 
 ## Ecosystem
 
+#### 2016
+
+* [List of open-source microkernel projects](http://www.microkernel.info), Jakub Jermar
+
 #### 2015
 
 * Xen Summit, [Virtual Machine Introspection with Xen](http://events.linuxfoundation.org/sites/events/files/slides/xendevsummit.pdf), *Tamas Lengyel* ([video](https://www.youtube.com/watch?v=k0BVFyyuvRA))
@@ -57,6 +61,10 @@ permalink: /history/
 #### 2007 
 
 * Xen Summit, [Trusted Boot: Verifying the Xen Launch](https://web.archive.org/web/20140611161423/http://www-archive.xenproject.org/files/xensummit_fall07/23_JosephCihula.pdf), *Joseph Cihula*
+
+#### 1986
+
+* Computer History Museum, [ACM Conference on the History of Personal Workstations](http://www.computerhistory.org/atchm/the-1986-acm-conference-on-the-history-of-personal-workstations/)
 
 ## Research
 
