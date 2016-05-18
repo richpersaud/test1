@@ -16,7 +16,7 @@ permalink: /history/
 
 * LinuxCon EU, [Securing your cloud with Xen's advanced security features](http://www.slideshare.net/xen_com_mgr/lceu13-securing-your-cloud-with-xens-advanced-security-features-ge), *George Dunlap* ([video](http://www.youtube.com/watch?v=fvW3kzl-bfY))
 
-* Xen Summit, [In-Guest Mechanisms to Strengthen Guest Separation](http://www.slideshare.net/xen_com_mgr/xen-summit-2013triccastrengthen-guest-separation), *Philip Tricca*
+* Xen Summit, [In-Guest Mechanisms to Strengthen Guest Separation](http://events.linuxfoundation.org/sites/events/files/slides/XenSummit_2013_Tricca.pdf), *Philip Tricca*
 
 * Xen Summit, [Secure Server Project](http://www.slideshare.net/xen_com_mgr/xen-summit2013-secureserverproject), *Jason Sonnek* ([video](http://www.youtube.com/watch?v=v_RJZTFcKoc))
 
@@ -85,7 +85,7 @@ trusted compartment. We illustrate how this approach may be used to implement
 
 #### 2006 
 
-* *Computer* magazine, [Can We Make Operating Systems Reliable and Secure?](http://www.cs.vu.nl/~ast/publications/computer-2006a.pdf), *Andrew S. Tanenbaum et al.*
+* *Computer* magazine, [Can We Make Operating Systems Reliable and Secure?](http://cs.furman.edu/~chealy/cs75/important%20papers/secure%20computer-2006a.pdf), *Andrew S. Tanenbaum et al.*
 * USENIX Security, [Virtualizing the Trusted Platform Module](https://www.usenix.org/event/sec06/tech/full_papers/berger/berger.pdf), *Stefan Berger et al.*
 * ASPLOS, [A Comparison of Software and Hardware Techniques for x86 Virtualization](http://www.scs.stanford.edu/13wi-cs240/sched/readings/vm-techniques.pdf), *Keith Adams et al.*
 
