@@ -6,6 +6,10 @@ permalink: /history/
 
 ## Ecosystem
 
+#### 2015
+
+* Xen Summit, [Virtual Machine Introspection with Xen](http://events.linuxfoundation.org/sites/events/files/slides/xendevsummit.pdf), *Tamas Lengyel* ([video](https://www.youtube.com/watch?v=k0BVFyyuvRA))
+
 #### 2014
 
 * LinuxCon NA, [Security in the Cloud: Xen, KVM, Containers](http://www.slideshare.net/xen_com_mgr/lcna14-security-of-virtualization-solutions), *George Dunlap*
