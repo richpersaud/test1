@@ -8,11 +8,17 @@ permalink: /history/
 
 #### 2016
 
+* [iOS 9 Security](https://www.apple.com/business/docs/iOS_Security_Guide.pdf), *Apple*
+
+* BSides, [QNX Security Architecture Whitepaper](https://labs.mwrinfosecurity.com/publications/qnx-architectural/)
+
 * [Open-source microkernel projects](http://www.microkernel.info), Jakub Jermar
 
 #### 2015
 
 * Xen Summit, [Virtual Machine Introspection with Xen](http://events.linuxfoundation.org/sites/events/files/slides/xendevsummit.pdf), *Tamas Lengyel* ([video](https://www.youtube.com/watch?v=k0BVFyyuvRA))
+
+* blackhat, [How Windows 10 rewrites OS architecture](http://www.alex-ionescu.com/blackhat2015.pdf), *Alex Ionescu*
 
 * [Genode OS Architecture](http://genode.org/documentation/genode-foundations-15-05.pdf), *Norman Feske*
 
@@ -88,6 +94,10 @@ service VMs. We show that this componentized abstraction brings a number of
 benefits: sharing of service components by guests is configurable and auditable, 
 making exposure to risk explicit, and access to the hypervisor is restricted 
 to the least privilege required for each component."
+
+#### 2010
+
+* [Folk Models of Home Computer Security](http://www.rickwash.com/papers/rwash-homesec-soups10-final.pdf), *Rick Wash*
 
 #### 2008 
 
