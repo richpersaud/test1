@@ -36,7 +36,7 @@ permalink: /history/
 
 #### 2010 
 
-* [Qubes OS Architecture](http://files.qubes-os.org/files/doc/arch-spec-0.3.pdf), *Joanna Rutkowska*
+* [Qubes OS Architecture](https://www.qubes-os.org/attachment/wiki/QubesArchitecture/arch-spec-0.3.pdf), *Joanna Rutkowska*
 
 > Secure GUI, Secure networking, Secure storage, Analysis of potential attack vectors
 
