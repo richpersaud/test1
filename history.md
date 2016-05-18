@@ -8,7 +8,7 @@ permalink: /history/
 
 #### 2016
 
-* [List of open-source microkernel projects](http://www.microkernel.info), Jakub Jermar
+* [Open-source microkernel projects](http://www.microkernel.info), Jakub Jermar
 
 #### 2015
 
