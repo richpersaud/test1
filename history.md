@@ -113,7 +113,7 @@ trusted compartment. We illustrate how this approach may be used to implement
 
 #### 2005
 
-* Annual Computer Security Applications Conference, [A Nitpicker's guide to a minimal-complexity secure GUI](https://www.acsac.org/2005/papers/54.pdf), Norman Feske and Christian Helmuth
+* Annual Computer Security Applications Conference, [A Nitpicker's guide to a minimal-complexity secure GUI](https://www.acsac.org/2005/papers/54.pdf), *Norman Feske and Christian Helmuth*
 
 #### 2003
 
