@@ -18,6 +18,8 @@ permalink: /history/
 
 * Xen Summit, [Security and the Properties of a Xen Virtualization Platform](http://www.slideshare.net/xen_com_mgr/tricca-xen-summit2014), *Philip Tricca* ([video](https://www.youtube.com/watch?v=ESS2UGBi4eI))
 
+* [Software compartmentalization vs. physical separation](http://invisiblethingslab.com/resources/2014/Software_compartmentalization_vs_physical_separation.pdf), *Joanna Rutkowska*
+
 #### 2013
 
 * LinuxCon EU, [Securing your cloud with Xen's advanced security features](http://www.slideshare.net/xen_com_mgr/lceu13-securing-your-cloud-with-xens-advanced-security-features-ge), *George Dunlap* ([video](http://www.youtube.com/watch?v=fvW3kzl-bfY))
