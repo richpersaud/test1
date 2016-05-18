@@ -48,7 +48,7 @@ permalink: /history/
 
 #### 2007 
 
-* Xen Summit, [Trusted Boot: Verifying the Xen Launch](http://www-archive.xenproject.org/files/xensummit_fall07/23_JosephCihula.pdf), *Joseph Cihula*
+* Xen Summit, [Trusted Boot: Verifying the Xen Launch](https://web.archive.org/web/20140611161423/http://www-archive.xenproject.org/files/xensummit_fall07/23_JosephCihula.pdf), *Joseph Cihula*
 
 ## Research
 
