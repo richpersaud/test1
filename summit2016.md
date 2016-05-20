@@ -26,24 +26,24 @@ There is no fee for attendance, but space is limited and building security will 
 
 ### Location
 
-The event will take place at [Intel Corporation](https://goo.gl/maps/hqaSDhDshx62), 4100 Monument Corner Drive, Suite 540, Fairfax, VA 22030.
+The event will take place at Intel Corporation, [4100 Monument Corner Drive](https://goo.gl/maps/hqaSDhDshx62), Suite 540, Fairfax, VA 22030.
 
 ### Presentation Agenda: Tuesday 7 June, 2016
 
  * 08:45 Introduction, *Speaker TBD*
  
- * 09:00 Secure Virtual Platform Research, *Speaker TBD*
- 
- > Abstract in review
- 
- * 09:45 OpenXT Platform, *Ross Philipson*, Assured Information Security
+ * 09:00 OpenXT Platform, *Ross Philipson*, Assured Information Security
  
  > Can OpenXT be moved towards an extensible platform model? The key concepts to be covered are, (a) minimal base platform with core security attributes central to OpenXT, (b) layers that enable the base platform to be easily extended and customized.
  
- * 10:15 Human Interface Devices, *Jean-Edouard Lejosne*, Assured Information Security
+ * 09:30 Human Interface Devices, *Jean-Edouard Lejosne*, Assured Information Security
 
  > This presentation will start with an overview of the way human input (keyboard, mouse, touchscreens, ...) is managed by OpenXT today: without tools (emulated) and with tools (backend-frontend). We will then present a new architecture for the latter, SuperHID, that eliminates the need for guest drivers, by surfacing standard HID USB devices through the existing USB backend-frontend mechanism.
 
+ * 10:00 Secure Virtual Platform Research, *Speaker TBD*
+ 
+ > Abstract in review
+ 
  * 10:45 Break
 
  * 11:00 meta-selinux, grub2, TPM2, *Philip Tricca*, Intel Corp.
@@ -78,11 +78,11 @@ The event will take place at [Intel Corporation](https://goo.gl/maps/hqaSDhDshx6
  
 > As networks become increasingly targeted by attackers in search of sensitive data, a new data protection model is arising: one in which data must be protected even on contested networks. In this new paradigm, a stronger isolation boundary is needed than the current process model of the status quo: hardware-enforced enclaves are a step towards true data protection in contested networks. This talk provides a background of enclaves provided by Intel SGX, followed by an example case study of well-known malware that could have been prevented through the deployment of enclave technologies. Finally a discussion on the weaknesses of the current enclave technologies is provided before concluding remarks.
  
- * 15:45 Topic TBD, *Speaker TBD*
+ * 15:45 Securing dom0 today and in the future, *Derek Straka*, Star Lab
+  
+ > Over time there has been a lot of talks and proposals for improving Xen and dom0 basic security principles, but many are not followed years later. This talk will focus on a few items that can be done today, items that can be done relatively easily and items that we would like to undertake in the future. Attendees are invited to join the discussion and help come up with a plan. The end goal will be to make this a standing topic at future Xen conferences to keep focus on this area and continue to evolve the security of Xen and of the dom0 baseline.
  
- > Abstract TBD
- 
- * 16:15 ServiceVMs and why APIs matter, Daniel Smith, Apertus Solutions
+ * 16:15 ServiceVMs and why APIs matter, *Daniel Smith*, Apertus Solutions
  
  > Abstract in review
  
