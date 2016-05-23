@@ -54,7 +54,7 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
   
  * 10:45 Break
 
- * 11:00 OpenEmbedded and Trusted Platform Module 2.0, *Philip Tricca*, Intel Corporation
+ * 11:00 Trusted Platform Module 2.0 and OpenEmbedded, *Philip Tricca*, Intel Corporation
  
  > The TPM is at the core of the OpenXT measured launch implementation. The second iteration of the Trusted Platform Module spec (TPM2) is becoming more widely deployed and this new spec isn't backward compatible with TPM 1.2. Intel released and develops a BSD-licensed implementation of the core TPM2 components for Linux. This talk introduces the architecture of this implementation and related work in the Grub2 bootloader. It will cover benefits and a potential roadmap for TPM2 integration in OpenXT. As a first step in this direction, we will see a reference implementation that integrates these technologies into the OpenEmbedded meta-measured layer, using the Minnowboard Max as a test platform.
 
