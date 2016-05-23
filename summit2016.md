@@ -104,7 +104,7 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
 
  * 08:00 Breakfast
 
- * 09:00 Definition: Base Platform, Disaggregated dom0
+ * 09:00 Definition: Base Platform and Disaggregated dom0
  
  > Moderator: *Ross Philipson*, Assured Information Security
  
