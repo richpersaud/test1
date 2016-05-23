@@ -28,31 +28,39 @@ There is no fee for attendance, but space is limited and building security will 
 
 The event will take place at Intel Corporation, [4100 Monument Corner Drive](https://goo.gl/maps/hqaSDhDshx62), Suite 540, Fairfax, VA 22030.
 
+### Schedule Summary
+
+ * Presentations: 8:45am - 5:15pm, Tuesday 7 June
+ * Evening Reception: 5:30pm - 7:00pm, Tuesday 7 June
+ * Discussions: 9:00am - 5:00pm, Wednesday 8 June
+
 ### Presentation Agenda: Tuesday 7 June, 2016
+
+ * 08:00 Breakfast
 
  * 08:45 Introduction, *Speaker TBD*
  
- * 09:00 OpenXT Platform, *Ross Philipson*, Assured Information Security
+ * 09:00 OpenXT Architecture, *Christopher Clark*, BAE Systems
+ 
+ > A whistle-stop tour of the structure of an OpenXT system today: an overview of the primary technology and distinguishing properties of the platform.  This presentation will cover hardware, the Xen hypervisor and other software used by an OpenXT system.  It will provide a shared foundation for OpenXT Summit discussions.
+ 
+ * 09:30 OpenXT Platform, *Ross Philipson*, Assured Information Security
  
  > Can OpenXT be moved towards an extensible platform model? The key concepts to be covered are, (a) minimal base platform with core security attributes central to OpenXT, (b) layers that enable the base platform to be easily extended and customized.
  
- * 09:30 Human Interface Devices, *Jean-Edouard Lejosne*, Assured Information Security
-
- > This presentation will start with an overview of the way human input (keyboard, mouse, touchscreens, ...) is managed by OpenXT today: without tools (emulated) and with tools (backend-frontend). We will then present a new architecture for the latter, SuperHID, that eliminates the need for guest drivers, by surfacing standard HID USB devices through the existing USB backend-frontend mechanism.
-
- * 10:00 Secure Virtual Platform Research, *Speaker TBD*
+ * 10:00 Secure Virtual Platform Research, *Peter Loscocco*, National Security Agency
  
- > Abstract in review
- 
+ > NSA has a long history of investing in research focused on advancing the security of computer systems. Virtualization and Trusted Computing technologies present a great opportunity to enhance system security. This presentation highlights portions of NSA's Secure Virtual Platform (SVP) research program which has been focused on how best to leverage these technologies to construct more secure systems. The concepts explored under SVP offer a potential vision for OpenXT's future as a robust secure system.
+  
  * 10:45 Break
 
- * 11:00 meta-selinux, grub2, TPM2, *Philip Tricca*, Intel Corp.
+ * 11:00 OpenEmbedded and Trusted Platform Module 2.0, *Philip Tricca*, Intel Corporation
  
- > Abstract in review
+ > The TPM is at the core of the OpenXT measured launch implementation. The second iteration of the Trusted Platform Module spec (TPM2) is becoming more widely deployed and this new spec isn't backward compatible with TPM 1.2. Intel released and develops a BSD-licensed implementation of the core TPM2 components for Linux. This talk introduces the architecture of this implementation and related work in the Grub2 bootloader. It will cover benefits and a potential roadmap for TPM2 integration in OpenXT. As a first step in this direction, we will see a reference implementation that integrates these technologies into the OpenEmbedded meta-measured layer, using the Minnowboard Max as a test platform.
 
- * 11:30 Measured Launch, *Daniel Smith*, Apertus Solutions
+ * 11:30 OpenXT Measured Launch, *Daniel Smith*, Apertus Solutions
  
- > Abstract in review
+ > This talk will present the enhancements being made to the OpenXT Measured Launch process. It will cover the re-architecture of the Key, TPM, and Measured Launch management to provide a flexible framework that can be more easily extended. This will allow Implementers to use OpenXT as a base platform and tailor the process to meet the security needs of their platform. The presentation will conclude with some remaining challenges and longer term goals that still need to be accomplished.
 
  * 12:00 Lunch
 
@@ -82,9 +90,9 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
   
  > Over time there has been a lot of talks and proposals for improving Xen and dom0 basic security principles, but many are not followed years later. This talk will focus on a few items that can be done today, items that can be done relatively easily and items that we would like to undertake in the future. Attendees are invited to join the discussion and help come up with a plan. The end goal will be to make this a standing topic at future Xen conferences to keep focus on this area and continue to evolve the security of Xen and of the dom0 baseline.
  
- * 16:15 ServiceVMs and why APIs matter, *Daniel Smith*, Apertus Solutions
- 
- > Abstract in review
+ * 16:15 Topic TBD, *Speaker TBD*
+  
+ > Abstract TBD
  
  * 16:45 Virtualization and Business Models, *Rich Persaud*, BAE Systems
  
@@ -94,20 +102,58 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
 
 ### Discussion Agenda: Wednesday 8 June, 2016
 
+ * 08:00 Breakfast
+
  * 09:00 Definition: Base Platform, Disaggregated dom0
+ 
+ > Moderator: *Ross Philipson*, Assured Information Security
+ 
  * 09:30 Definition: Layers and Modular Build
+ 
+ > Moderator: *Daniel Smith*, Apertus Solutions
+ 
  * 10:00 Definition: Display Architectures, UX
+ 
+ > Moderator: *Brendan Kerrigan*, Assured Information Security
+ 
  * 10:40 Break
+ 
  * 11:00 Planning: Upstream: Xen, Qemu, OpenEmbedded, meta-virtualization, meta-openxt 
+ 
+ > Moderator: *Derek Strata*, Star Lab
+ 
  * 11:30 Planning: Governance, Security Disclosure Process
+ 
+ > Moderator: *Christopher Clark*, BAE Systems
+ 
  * 12:00 Lunch
+ 
  * 13:00 Strategy: UEFI, SecureBoot, TPM2, Virtual TPM, VMCS Shadowing
+ 
+ > Moderator: *Philip Tricca*, Intel Corporation
+ 
  * 13:30 Strategy: Modular Policy (SE Linux, XSM, Toolstack, Service VM)
+ 
+ > Moderator: *Stephen Smalley*, National Security Agency
+ 
  * 14:00 Strategy: Tablets, Mobility, Embedded and ARM
+ 
+ > Moderator: *Kyle Temkin*, Assured Information Seurity
+ 
  * 14:30 Strategy: Use Case Spectrum, NIAP Protection Profiles
+ 
+ > Moderator: *Jim Rauscher*, National Security Agency
+ 
  * 15:00 Break
+ 
  * 15:20 Strategy: Platform APIs, Ecosystem Interfaces, Compatibility, HCL
+ 
+ > Moderator: *Daniel Smith*, Apertus Solutions 
+ 
  * 16:00 Planning: 2016 Roadmap and Timeline
+ 
+ > Moderator: *Rich Persaud*, BAE Systems
+ 
  * 17:00 End of Day 2 discussions
  
 
@@ -119,8 +165,9 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
  * 3 miles, [Hampton Inn Fairfax City](http://hamptoninn3.hilton.com/en/hotels/virginia/hampton-inn-fairfax-city-FFCVAHX/index.html)
  * 8 miles, [Westin Reston Heights](http://westinreston.com)
 
-### Air and Train
+### Car, Air and Train
 
+ * Visitor parking: available on-site
  * 6 miles, Washington Metro station, Vienna/Fairfax-GMU (Orange Line)
  * 12 miles, Dulles (IAD) Airport
  * 22 miles, Washington Reagan (DCA) Airport
