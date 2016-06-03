@@ -44,7 +44,7 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
  
 ### Sponsors
 
-<a href="http://intel.com"><img src="{{ site.baseurl }}/images/intel.png"></a>
+<a href="http://intel.com"><img src="{{ site.baseurl }}/images/intel.png" width="200"></a>
 
 ### Presentation Agenda: Tuesday 7 June, 2016
 
