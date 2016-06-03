@@ -46,7 +46,7 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
 
 <a href="http://intel.com"><img src="{{ site.baseurl }}/images/intel.png" width="200"></a>
 
-# Presentation Agenda: Tuesday 7 June, 2016
+### <a name="presentations"></a> Presentation Agenda: Tuesday 7 June, 2016
 
  * 08:00 Breakfast
 
@@ -114,7 +114,7 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
  
  * 17:30 Evening Reception
 
-# Discussion Agenda: Wednesday 8 June, 2016
+### <a name="discussions"></a> Discussion Agenda: Wednesday 8 June, 2016
 
 Please add your questions and discussion topics to the [OpenXT wiki](https://openxt.atlassian.net/wiki/display/CS/Discussion+Topics).
 
@@ -173,7 +173,7 @@ Please add your questions and discussion topics to the [OpenXT wiki](https://ope
  * 17:00 End of Day 2 discussions
  
 
-# Hotels
+### Hotels
 
  * 2 miles, [Fairfax Marriott at Fair Oaks](http://www.marriott.com/hotels/travel/iadmc-fairfax-marriott-at-fair-oaks/)
  * 2 miles, [Hilton Garden Inn Fairfax](http://hiltongardeninn3.hilton.com/en/hotels/virginia/hilton-garden-inn-fairfax-IADFHGI/index.html)
