@@ -31,7 +31,7 @@ There is no fee for attendance, but space is limited and building security will 
  * Organizational affiliation
  * Publish name and organization in public attendee list: Yes/No
 
-### <a href="#location"></a> Location
+### <a name="location"></a> Location
 
 The event will take place at Intel Corporation, [4100 Monument Corner Drive](https://goo.gl/maps/hqaSDhDshx62), Suite 540, Fairfax, VA 22030.
 
