@@ -130,7 +130,7 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
  
  > Moderator: *Brendan Kerrigan*, Assured Information Security
  
- * 10:40 Break
+ * 10:30 Break
  
  * 11:00 Planning: Upstream: Xen, Qemu, OpenEmbedded, meta-virtualization, meta-openxt 
  
