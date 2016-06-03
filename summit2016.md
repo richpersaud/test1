@@ -26,17 +26,31 @@ There is no fee for attendance, but space is limited and building security will 
 
 The event will take place at Intel Corporation, [4100 Monument Corner Drive](https://goo.gl/maps/hqaSDhDshx62), Suite 540, Fairfax, VA 22030.
 
-### Schedule Summary
+### Transportation
 
- * Presentations: 8:45am - 5:15pm, Tuesday 7 June
- * Evening Reception: 5:30pm - 7:00pm, Tuesday 7 June
- * Discussions: 9:00am - 5:00pm, Wednesday 8 June
+ * Visitor parking: free, available on-site
+ * 6 miles, Washington Metro station, Vienna/Fairfax-GMU (Orange Line)
+ * 12 miles, Dulles (IAD) Airport
+ * 22 miles, Washington Reagan (DCA) Airport
+ * 24 miles, Amtrak Union Station
+
+### Program Summary
+
+ * Presentations: 8:45am - 5:15pm, Tuesday 7th June
+ * Evening Reception: 5:30pm - 7:00pm, Tuesday 7th June
+ * Discussions: 9:00am - 5:00pm, Wednesday 8th June
+ * Devices permitted, wireless internet and some power outlets available
+ * Breakfast, Lunch & Snack will be served 
+ 
+### Sponsors
+
+<a href="http://intel.com"><img src="{{ site.baseurl }}/images/intel.png"></a>
 
 ### Presentation Agenda: Tuesday 7 June, 2016
 
  * 08:00 Breakfast
 
- * 08:45 Introduction, *Speaker TBD*
+ * 08:45 Introduction
  
  * 09:00 OpenXT Architecture, *Christopher Clark*, BAE Systems
  
@@ -163,10 +177,6 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
  * 3 miles, [Hampton Inn Fairfax City](http://hamptoninn3.hilton.com/en/hotels/virginia/hampton-inn-fairfax-city-FFCVAHX/index.html)
  * 8 miles, [Westin Reston Heights](http://westinreston.com)
 
-### Car, Air and Train
 
- * Visitor parking: available on-site
- * 6 miles, Washington Metro station, Vienna/Fairfax-GMU (Orange Line)
- * 12 miles, Dulles (IAD) Airport
- * 22 miles, Washington Reagan (DCA) Airport
- * 24 miles, Amtrak Union Station
+
+Intel and the Intel logo are trademarks of Intel Corporation or its subsidiaries in the U.S. and/or other countries.
