@@ -4,6 +4,15 @@ title: Summit
 permalink: /summit/
 ---
 
+### Program Summary
+
+ * [Presentations](#presentations): 8:45am - 5:15pm, Tuesday 7th June
+ * Evening Reception: 5:30pm - 7:00pm, Tuesday 7th June
+ * [Discussions](#discussions): 9:00am - 5:00pm, Wednesday 8th June
+ * Devices permitted, wireless internet and some power outlets available
+ * Breakfast, Lunch & Snack will be served
+ * [Directions](#location)
+ 
 ## 2016 OpenXT Summit
 
 The inaugural OpenXT Summit brings together developers and ecosystem participants for a 2-day conference in Fairfax, VA, USA on June 7-8, 2016.   The event is hosted by Intel Corporation.  The audience for this event includes kernel and application developers, hardware designers, system integrators and security architects.
@@ -22,7 +31,7 @@ There is no fee for attendance, but space is limited and building security will 
  * Organizational affiliation
  * Publish name and organization in public attendee list: Yes/No
 
-### Location
+### <a href="#location"></a> Location
 
 The event will take place at Intel Corporation, [4100 Monument Corner Drive](https://goo.gl/maps/hqaSDhDshx62), Suite 540, Fairfax, VA 22030.
 
@@ -34,14 +43,6 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
  * 22 miles, Washington Reagan (DCA) Airport
  * 24 miles, Amtrak Union Station
 
-### Program Summary
-
- * Presentations: 8:45am - 5:15pm, Tuesday 7th June
- * Evening Reception: 5:30pm - 7:00pm, Tuesday 7th June
- * Discussions: 9:00am - 5:00pm, Wednesday 8th June
- * Devices permitted, wireless internet and some power outlets available
- * Breakfast, Lunch & Snack will be served 
- 
 ### Sponsors
 
 <a href="http://intel.com"><img src="{{ site.baseurl }}/images/intel.png" width="200"></a>
