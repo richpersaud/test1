@@ -88,9 +88,9 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
   
  > Over time there has been a lot of talks and proposals for improving Xen and dom0 basic security principles, but many are not followed years later. This talk will focus on a few items that can be done today, items that can be done relatively easily and items that we would like to undertake in the future. Attendees are invited to join the discussion and help come up with a plan. The end goal will be to make this a standing topic at future Xen conferences to keep focus on this area and continue to evolve the security of Xen and of the dom0 baseline.
  
- * 16:15 Topic TBD, *Speaker TBD*
-  
- > Abstract TBD
+ * 16:15 Virtualization Based Security – Big Deal or BS?, *Sherban Naum*, Bromium
+
+> Endpoints and their human users are increasingly subjected to sophisticated, targeted attacks that evade detection to compromise the system in some unforeseen way. But a new defensive technique can change the odds in favor of security “by design”. Virtualization Based Security is a term that incorporates several approaches: micro-virtualization mutually isolates applications, whereas a virtual secure mode within an OS can be used to protect key data and processes – as in Windows 10. Intel VT can enable hardware enforced isolation between tasks within a single OS – using micro-virtualization and a specialized hypervisor that has been modified for inter-task isolation, called a Microvisor. In our work we use an extension of the Xen Project® hypervisor. Micro-virtualization reduces the attack surface of the OS by several orders of magnitude. It can be integrated into a PC or mobile device in a way that does not interfere with the user experience. Finally, its granular isolation of single tasks permits real-time introspection and detection of otherwise undetectable malware.
  
  * 16:45 Virtualization and Business Models, *Rich Persaud*, BAE Systems
  
