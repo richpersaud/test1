@@ -46,7 +46,7 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
 
 <a href="http://intel.com"><img src="{{ site.baseurl }}/images/intel.png" width="200"></a>
 
-### Presentation Agenda: Tuesday 7 June, 2016
+# Presentation Agenda: Tuesday 7 June, 2016
 
  * 08:00 Breakfast
 
@@ -114,7 +114,7 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
  
  * 17:30 Evening Reception
 
-### Discussion Agenda: Wednesday 8 June, 2016
+# Discussion Agenda: Wednesday 8 June, 2016
 
 Please add your questions and discussion topics to the [OpenXT wiki](https://openxt.atlassian.net/wiki/display/CS/Discussion+Topics).
 
