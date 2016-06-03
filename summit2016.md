@@ -173,7 +173,7 @@ Please add your questions and discussion topics to the [OpenXT wiki](https://ope
  * 17:00 End of Day 2 discussions
  
 
-### Hotels
+# Hotels
 
  * 2 miles, [Fairfax Marriott at Fair Oaks](http://www.marriott.com/hotels/travel/iadmc-fairfax-marriott-at-fair-oaks/)
  * 2 miles, [Hilton Garden Inn Fairfax](http://hiltongardeninn3.hilton.com/en/hotels/virginia/hilton-garden-inn-fairfax-IADFHGI/index.html)
