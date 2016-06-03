@@ -116,6 +116,8 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
 
 ### Discussion Agenda: Wednesday 8 June, 2016
 
+Please add your questions and discussion topics to the [OpenXT wiki](https://openxt.atlassian.net/wiki/display/CS/Discussion+Topics).
+
  * 08:00 Breakfast
 
  * 09:00 Definition: Base Platform and Disaggregated dom0
