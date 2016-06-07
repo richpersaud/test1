@@ -46,7 +46,7 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
 ### <a name="presentations"></a> Sponsors
 
 <a href="http://intel.com"><img src="{{ site.baseurl }}/images/intel.png" width="200"></a>
-<a href="http://apertussolutions.com"><img src="{{ site.baseurl }}/images/apertus.png" width="150" style="margin: 0px 50px"></a>
+<a href="http://apertussolutions.com"><img src="{{ site.baseurl }}/images/apertus.png" width="150" style="margin: 20px 50px"></a>
 
 ### Presentation Agenda: Tuesday 7 June, 2016
 
