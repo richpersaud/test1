@@ -46,6 +46,7 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
 ### <a name="presentations"></a> Sponsors
 
 <a href="http://intel.com"><img src="{{ site.baseurl }}/images/intel.png" width="200"></a>
+<a href="http://apertussolutions.com"><img src="{{ site.baseurl }}/images/apertus.png" width="200"></a>
 
 ### Presentation Agenda: Tuesday 7 June, 2016
 
@@ -110,6 +111,8 @@ The event will take place at Intel Corporation, [4100 Monument Corner Drive](htt
  * 16:45 Virtualization and Business Models, *Rich Persaud*, BAE Systems
  
  > License revenue for proprietary operating systems on OEM hardware is being supplanted by vertically integrated hardware, utility pricing of hosted services, and fees for "app store" software distribution. End-users often work across multiple device form factors, connected to public and private services. As diverse hardware and networked services proliferate, in complex supply chains with open and closed components, how can virtualization architectures support evolving business models?
+ 
+ * 17:00 OpenEmbedded Ecosystem, *Philip Balister*, OpenSDR
  
  * 17:15 End of Day 1 presentations 
  
